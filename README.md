@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,arduino,js,html,css&theme">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,js,html,css&theme">
   </a>
 </div>
 
