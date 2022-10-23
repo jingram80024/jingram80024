@@ -13,6 +13,6 @@ An Electrical Engineering Instructor transitioning out of the Navy and pursuing 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,html,css&theme">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,js,html">
   </a>
 </div>
