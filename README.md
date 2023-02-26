@@ -9,7 +9,7 @@
 
 ## A Little About Me
 <samp align="center">
-An Electrical Engineering Instructor transitioning out of the Navy and pursuing work in electrical engineering. Graduated with an Electrical Engineering degree from the University of Tennessee at Chattanooga. Interested in power electronics and controls, embedded systems hardware and firmware, and Internet of Things.
+An Electrical Engineering Instructor transitioning out of the Navy and pursuing work in electrical and software engineering. Graduated with an Electrical Engineering degree from the University of Tennessee at Chattanooga. Interested in embedded systems hardware and firmware, Internet of Things, and power electronics and controls.
 </samp>
 
 ## Languages
