@@ -16,6 +16,6 @@ An Electrical Engineering Instructor transitioning out of the Navy and pursuing 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,js,html,git,linux,bash">
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,js,html,django,git,linux,bash">
   </a>
 </div>
