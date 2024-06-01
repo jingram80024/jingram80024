@@ -16,6 +16,6 @@ An Associate Electrical Engineer interested in embedded software and hardware, F
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,js,html,django,git,linux,bash">
+    <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash">
   </a>
 </div>
