@@ -9,7 +9,7 @@
 
 ## A Little About Me
 <samp align="center">
-An Associate Electrical Engineer interested in embedded software and hardware, FPGAs, and embedded camera interfacing.
+An Associate Electrical Engineer interested in embedded software and hardware, FPGAs, and computer vision.
 </samp>
 
 ## Languages
